@@ -1,6 +1,6 @@
 ## Data Governance
 
-This section contains a collection of policies, processes and useful information from the Data Governance group, a team charged with formalizing behavior and holding people accountable with respect to our company’s privacy and data protection practices. If you have questions or are looking for additional information, please contact data-governance@nytimes.com or #data-governance.
+This site contains a collection of policies, processes and useful information from the Data Governance team, a team charged with formalizing behavior and holding people accountable with respect to our company’s privacy and data protection practices. 
 
 ### Markdown
 
@@ -32,4 +32,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have questions or are looking for additional information, please contact data-governance@nytimes.com or #data-governance.

@@ -32,4 +32,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-If you have questions or are looking for additional information, please contact data-governance@nytimes.com or #data-governance.
+If you have questions or are looking for additional information, the Data Governance team is available via email at data-governance@nytimes.com or on the #data-governance Slack channel.

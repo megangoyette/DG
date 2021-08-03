@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Data Governance
 
-You can use the [editor on GitHub](https://github.com/megangoyette/Data-Governance-Standards/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This section contains a collection of policies, processes and useful information from the Data Governance group, a team charged with formalizing behavior and holding people accountable with respect to our company’s privacy and data protection practices. If you have questions or are looking for additional information, please contact data-governance@nytimes.com or #data-governance.
 
 ### Markdown
 

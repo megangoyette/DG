@@ -1,1 +1,2 @@
-# NYT Data Governance Standards and Processes
+# The New York Times
+## Data Governance Standards and Processes

@@ -1,6 +1,6 @@
 ## Data Governance
 
-This site contains a collection of policies, processes and useful information from the Data Governance team, a team charged with formalizing behavior and holding people accountable with respect to our company’s privacy and data protection practices. 
+This site contains a collection of standards, processes and useful information from the Data Governance team, a team charged with formalizing behavior and holding people accountable with respect to our company’s privacy and data protection practices. 
 
 ### Markdown
 

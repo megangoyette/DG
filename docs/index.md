@@ -21,7 +21,8 @@ Children are vulnerable data subjects. This standard lays out the New York Times
 
 
 #### [DRB Tracker Standard](https://docs.google.com/document/d/1aIF1w4H2FYHzbfigDSPoL-u1-Uqn4-YJLOUoeH9GLek/edit?usp=sharing)
-This standard XXX...
+This document outlines NYT standards on the use of internet tracking technologies to ensure we maintain a certain level of respect, safety, and security for our readers’ information and remain deliberate in the choices we make when sharing audience data with third parties.
+
 
 #### [Third-party Tag Implementation Process](https://docs.google.com/document/d/1o2sjPGsH2hglPsCcJTey6Jo6hwZ3_m0jJpu8m5cVrCM/edit?usp=sharing)
 A process to request or modify third-party tag implementations.

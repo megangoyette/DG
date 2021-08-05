@@ -36,4 +36,4 @@ Thinking of onboarding a new vendor? First check the company’s [Vendor List](h
 
 ## Support or Contact
 
-If you have questions or are looking for additional information, the Data Governance team is available via email at data-governance@nytimes.com or on the #data-governance Slack channel.
+If you have questions or are looking for additional information, the Data Governance team is available via email at **data-governance@nytimes.com** or on the **#data-governance Slack channel**.

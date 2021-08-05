@@ -1,5 +1,4 @@
-# Data Governance 
-## at The New York Times
+# Data Governance at The New York Times
 
 This site contains a collection of standards, processes and useful information from the Data Governance team.
 
@@ -14,15 +13,11 @@ Data Governance is the team charged with formalizing behavior and holding people
 This policy XXX...
 
 
-#### Child-Safe Data Standard
+#### [Child-Safe Data Standard](https://docs.google.com/document/d/17KkeafTa39P8kQc0UJaceR1EOjDnGri39x5l72hmtaQ/edit?usp=sharing)
+This policy XXX...
 
-[Child-Safe Data Standard](https://docs.google.com/document/d/17KkeafTa39P8kQc0UJaceR1EOjDnGri39x5l72hmtaQ/edit?usp=sharing). <p style="line-height:3.5em;">This policy XXX...</p>
-
-
-
-#### DRB Tracker Standard
-
-[DRB Tracker Standard](https://docs.google.com/document/d/1aIF1w4H2FYHzbfigDSPoL-u1-Uqn4-YJLOUoeH9GLek/edit?usp=sharing). <p style="line-height:3.5em;">This policy XXX...</p>
+#### [DRB Tracker Standard](https://docs.google.com/document/d/1aIF1w4H2FYHzbfigDSPoL-u1-Uqn4-YJLOUoeH9GLek/edit?usp=sharing)
+This policy XXX...
 
 ## Other Useful Information
 

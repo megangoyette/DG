@@ -6,7 +6,7 @@ Data Governance is the team charged with formalizing behavior and holding people
 
 ## Standards, Policies, and Processes
 
-#### [Consumer Data Retention Policy](https://docs.google.com/document/d/1ppKHWN5-iMSqMPgpdPM4Sf20FkVd0flh8gsoN4Jmq-I/edit?usp=sharing) 
+**#### [Consumer Data Retention Policy](https://docs.google.com/document/d/1ppKHWN5-iMSqMPgpdPM4Sf20FkVd0flh8gsoN4Jmq-I/edit?usp=sharing)**
 This policy is meant to improve data minimization practices by not keeping data longer than we need it, and to remain compliant with data laws and  regulations. 
 
 

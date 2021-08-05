@@ -7,17 +7,21 @@ This site contains a collection of standards, processes and useful information f
 Data Governance is the team charged with formalizing behavior and holding people accountable with respect to our company’s privacy and data protection practices. 
 
 ## Standards, Policies, and Processes
-#### Consumer Data Retention Policy
 
 #### [Consumer Data Retention Policy](https://docs.google.com/document/d/1ppKHWN5-iMSqMPgpdPM4Sf20FkVd0flh8gsoN4Jmq-I/edit?usp=sharing) 
 This policy XXX...
 
 
+
 #### [Child-Safe Data Standard](https://docs.google.com/document/d/17KkeafTa39P8kQc0UJaceR1EOjDnGri39x5l72hmtaQ/edit?usp=sharing)
 This policy XXX...
 
+
+
 #### [DRB Tracker Standard](https://docs.google.com/document/d/1aIF1w4H2FYHzbfigDSPoL-u1-Uqn4-YJLOUoeH9GLek/edit?usp=sharing)
 This policy XXX...
+
+
 
 ## Other Useful Information
 

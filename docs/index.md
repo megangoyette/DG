@@ -8,8 +8,7 @@ This site contains a collection of standards, processes and useful information f
 Data Governance is the team charged with formalizing behavior and holding people accountable with respect to our company’s privacy and data protection practices. 
 
 ```markdown
-Syntax highlighted code block
-
+ [Consumer Data Retention Policy](https://docs.google.com/document/d/1ppKHWN5-iMSqMPgpdPM4Sf20FkVd0flh8gsoN4Jmq-I/edit?usp=sharing).
 # Header 1
 ## Header 2
 ### Header 3

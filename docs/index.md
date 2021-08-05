@@ -24,6 +24,9 @@ This policy XXX...
 
 
 ## Other Useful Information
+#### Vendors
+Thinking of onboarding a new vendor? First check the company’s [Vendor List](https://nytimes.service-now.com/bytes?id=nyt_vendors) to see if we already work with a third party that provides the service you are looking for. If not, use the [Vendor Engagement Process] (https://docs.google.com/document/d/1QyrZ4K9RvBSL07fuFy6T9t8EiWvln6Fujhfh-4MMXn4/edit?usp=sharing) as a guide for onboarding new vendors and re-negotiating agreements with existing vendors.
+
 
 
 ## Support or Contact

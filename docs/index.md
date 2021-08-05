@@ -1,6 +1,5 @@
 # Data Governance at The New York Times
 
-## Welcome.
 This site contains a collection of standards, processes and useful information from the Data Governance team.
 
 ## Who is Data Governance?

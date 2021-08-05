@@ -2,9 +2,9 @@
 
 # Who is Data Governance?
 
-Data Governance is the team charged with formalizing behavior and holding people accountable with respect to our company’s privacy and data protection practices. 
+Data Governance (DG) is the team charged with formalizing behavior and holding people accountable with respect to our company’s privacy and data protection practices. 
 
-# Standards, Policies, and Processes
+# DG Standards, Policies, and Processes
 
 ### [Consumer Data Retention Policy](https://docs.google.com/document/d/1ppKHWN5-iMSqMPgpdPM4Sf20FkVd0flh8gsoN4Jmq-I/edit?usp=sharing)
 This policy is meant to improve data minimization practices by not keeping data longer than we need it, and to remain compliant with data laws and  regulations. 

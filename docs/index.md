@@ -9,9 +9,8 @@ Data Governance is the team charged with formalizing behavior and holding people
 
 ### Consumer Data Retention Policy
 
-[Consumer Data Retention Policy](https://docs.google.com/document/d/1ppKHWN5-iMSqMPgpdPM4Sf20FkVd0flh8gsoN4Jmq-I/edit?usp=sharing). This policy XXX...
+[Consumer Data Retention Policy](https://docs.google.com/document/d/1ppKHWN5-iMSqMPgpdPM4Sf20FkVd0flh8gsoN4Jmq-I/edit?usp=sharing). <p style="line-height:3.5em;">This policy XXX...</p>
 
-<p style="line-height:3.5em;"> </p>
 
 ### Child-Safe Data Standard
 

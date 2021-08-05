@@ -14,13 +14,13 @@ Data Governance is the team charged with formalizing behavior and holding people
 
 ### Child-Safe Data Standard
 
-[Child-Safe Data Standard](https://docs.google.com/document/d/17KkeafTa39P8kQc0UJaceR1EOjDnGri39x5l72hmtaQ/edit?usp=sharing). This standard XXX...
+[Child-Safe Data Standard](https://docs.google.com/document/d/17KkeafTa39P8kQc0UJaceR1EOjDnGri39x5l72hmtaQ/edit?usp=sharing). <p style="line-height:3.5em;">This policy XXX...</p>
 
 
 
 ### DRB Tracker Standard
 
-[DRB Tracker Standard](https://docs.google.com/document/d/1aIF1w4H2FYHzbfigDSPoL-u1-Uqn4-YJLOUoeH9GLek/edit?usp=sharing). This standard XXX...
+[DRB Tracker Standard](https://docs.google.com/document/d/1aIF1w4H2FYHzbfigDSPoL-u1-Uqn4-YJLOUoeH9GLek/edit?usp=sharing). <p style="line-height:3.5em;">This policy XXX...</p>
 
 
 

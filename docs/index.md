@@ -1,6 +1,7 @@
 ## Data Governance
 
-Welcome! This site contains a collection of standards, processes and useful information from the Data Governance team.
+Welcome! 
+This site contains a collection of standards, processes and useful information from the Data Governance team.
 
 ### Who is Data Governance?
 

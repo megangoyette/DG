@@ -10,16 +10,17 @@ Data Governance is the team charged with formalizing behavior and holding people
 
 #### [Consumer Data Retention Policy](https://docs.google.com/document/d/1ppKHWN5-iMSqMPgpdPM4Sf20FkVd0flh8gsoN4Jmq-I/edit?usp=sharing) 
 This policy is meant to improve data minimization practices by not keeping data longer than we need it, and to remain compliant with data laws and  regulations. 
-##### Data retentions for each product are required to be documented in the [Article 30 Records](https://nyt-datagov-dev.appspot.com/art30/)
+#### [Article 30 Records](https://nyt-datagov-dev.appspot.com/art30/)
+Data retentions for each product are required to be documented in the Article 30 Records.
 
 
 #### [Child-Safe Data Standard](https://docs.google.com/document/d/17KkeafTa39P8kQc0UJaceR1EOjDnGri39x5l72hmtaQ/edit?usp=sharing)
-This policy XXX...
+This standards XXX...
 
 
 
 #### [DRB Tracker Standard](https://docs.google.com/document/d/1aIF1w4H2FYHzbfigDSPoL-u1-Uqn4-YJLOUoeH9GLek/edit?usp=sharing)
-This policy XXX...
+This standard XXX...
 
 #### [Third-party Tag Implementation Process](https://docs.google.com/document/d/1o2sjPGsH2hglPsCcJTey6Jo6hwZ3_m0jJpu8m5cVrCM/edit?usp=sharing)
 A process to request or modify third-party tag implementations.

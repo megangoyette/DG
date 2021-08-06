@@ -25,11 +25,19 @@ This document outlines NYT standards on the use of internet tracking technologie
 ### [Third-party Tag Implementation Process](https://docs.google.com/document/d/1o2sjPGsH2hglPsCcJTey6Jo6hwZ3_m0jJpu8m5cVrCM/edit?usp=sharing)
 A process to request or modify third-party tag implementations.
 
+### [The Organization Review Board Charter](https://docs.google.com/document/d/1bJpdZreKyIeyiIG1q15G6Qw1b7iU3q7gmZjnze4oOOc/edit?usp=sharing)
+The purpose of the Organizational Review Board (ORB) is to assess the implications (practical, ethical, legal, etc.) of projects that involve personal data. The ORB should be called upon whenever initiatives involving individuals’ data are considered.
+
+### [Algorithmic Ethics at The Times](https://docs.google.com/document/d/1rLfWvcZzvqAWQDVtOmd_Oj_7-DJC8Rv-S-XvRRuqlfw/edit?usp=sharing)
+As The Times deploys more algorithmic solutions in user-facing products, particularly ones built using machine learning, this document intends to put more rigor around our review process so as to ensure we are principled and consistent in caring for our readers’ safety and preserving their trust.
 
 
 # Other Useful Information
 ### Vendors
 Thinking of onboarding a new vendor? First check the company’s [Vendor List](https://nytimes.service-now.com/bytes?id=nyt_vendors) to see if we already work with a third party that provides the service you are looking for. If not, use the [Vendor Engagement Process](https://docs.google.com/document/d/1QyrZ4K9RvBSL07fuFy6T9t8EiWvln6Fujhfh-4MMXn4/edit?usp=sharing) as a guide for onboarding new vendors and re-negotiating agreements with existing vendors.
+
+### Data Steward Network 
+Trying to find your neighborhood data steward? Check out this [list](https://docs.google.com/document/d/1zTJJH_x1R8hLeQibpBpV4vkXKmgkohddHA6Rv7kMnSk/edit?usp=sharing).
 
 
 # Support or Contact

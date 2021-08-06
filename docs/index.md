@@ -39,6 +39,6 @@ Thinking of onboarding a new vendor? First check the company’s [Vendor List](h
 Trying to find your neighborhood data steward? Check out this [list](https://docs.google.com/document/d/1zTJJH_x1R8hLeQibpBpV4vkXKmgkohddHA6Rv7kMnSk/edit?usp=sharing).
 
 
-# Support or Contact
+# Contact
 
 If you have questions or are looking for additional information, the Data Governance team is available via email at **data-governance@nytimes.com** or on the **#data-governance** Slack channel.
